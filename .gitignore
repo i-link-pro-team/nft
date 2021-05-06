@@ -1,0 +1,7 @@
+/.idea
+node_modules
+
+#Hardhat files
+cache
+artifacts
+/hardhat.config.js
